@@ -1,2 +1,3 @@
 # WebPage_MendozaC
-WebPage
+Resume, projects and general information
+https://mendozac25.github.io/WebPage_MendozaC/
